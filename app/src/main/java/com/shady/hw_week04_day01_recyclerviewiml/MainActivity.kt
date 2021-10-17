@@ -2,6 +2,7 @@ package com.shady.hw_week04_day01_recyclerviewiml
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.marah.recycleviewapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

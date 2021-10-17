@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">HW-Week04_Day01_RecyclerView.iml</string>
+    <string name="app_name">RecycleViewApp</string>
+    <string name="item_name">Item name is: </string>
+    <string name="item_price">, Item price: </string>
 </resources>
