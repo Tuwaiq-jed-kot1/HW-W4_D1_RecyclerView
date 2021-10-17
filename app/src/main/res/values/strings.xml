@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">HW-Week04_Day01_RecyclerView.iml</string>
+    <string-array name="storeNames">
+        <item>Fitness Time</item>
+        <item>Fitness Time Pro</item>
+        <item>GOLD\'S GYM</item>
+        <item>Smart Fitness</item>
+        <item>Diet Center</item>
+        <item>Diet World</item>
+        <item>BOGA</item>
+        <item>SUBWAY</item>
+        <item>Golden Protein</item>
+        <item>IDEAL Nutrition</item>
+        <item>Power Nutrition</item>
+        <item>DR Nutrition</item>
+    </string-array>
+    <integer-array name="draID">
+        <item>@drawable/d1</item>
+        <item>@drawable/d2</item>
+        <item>@drawable/d3</item>
+        <item>@drawable/d4</item>
+        <item>@drawable/d5</item>
+        <item>@drawable/d6</item>
+        <item>@drawable/d7</item>
+        <item>@drawable/d8</item>
+        <item>@drawable/d9</item>
+        <item>@drawable/d10</item>
+        <item>@drawable/d11</item>
+        <item>@drawable/d12</item>
+    </integer-array>
 </resources>
