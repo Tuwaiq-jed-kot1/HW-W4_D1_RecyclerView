@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_action_user"/>
+    <TextView
+        android:id="@+id/rvID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="  ID: "/>
+    <TextView
+        android:id="@+id/rvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=", Name: "/>
+</LinearLayout>
