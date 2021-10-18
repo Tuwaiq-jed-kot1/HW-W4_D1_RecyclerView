@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RecyclerView_HW_Test</string>
+    <string name="app_name">Pets</string>
     <string-array name="PetNameArray">
         <item>Balinese</item>
         <item>Beagle</item>
