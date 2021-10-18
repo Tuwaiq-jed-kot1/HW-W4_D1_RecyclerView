@@ -24,6 +24,7 @@ class RecyclerAdapter : RecyclerView.Adapter<RecyclerAdapter.ViewHolder>() {
     )
 
 
+
     fun generateTitels(numberOfItems: Int): MutableList<String> {
         var titlesList = mutableListOf<String>()
         for (i in 1..numberOfItems) {
