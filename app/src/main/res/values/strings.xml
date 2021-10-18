@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">HW-Week04_Day01_RecyclerView.iml</string>
+    <string-array name="movie_names">
+        <item>Se7en</item>
+        <item>12 Angry Men</item>
+        <item>Pulp Fiction</item>
+        <item>Fight Club</item>
+        <item>Inception</item>
+        <item>Forrest Gump</item>
+        <item>Seven Samurai</item>
+        <item>Goodfellas</item>
+        <item>The Good, the Bad and the Ugly </item>
+        <item>City of God</item>
+        <item>The Dark Knight</item>
+        <item>The Matrix</item>
+        <item>The Shawshank Redemption</item>
+        <item>The Godfather</item>
+        <item>Interstellar</item>
+    </string-array>
 </resources>
