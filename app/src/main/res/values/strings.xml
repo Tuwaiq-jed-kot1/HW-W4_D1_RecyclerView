@@ -1,3 +1,38 @@
 <resources>
-    <string name="app_name">HW-Week04_Day01_RecyclerView.iml</string>
+    <string name="app_name">RecyclerView_HW_Test</string>
+    <string-array name="PetNameArray">
+        <item>Balinese</item>
+        <item>Beagle</item>
+        <item>Birman</item>
+        <item>British Shorthair Cat</item>
+        <item>Cane Corso</item>
+        <item>Chartreux</item>
+        <item>French Bulldog</item>
+        <item>Golden Retriever</item>
+        <item>Himalayan</item>
+        <item>Khao Manee</item>
+        <item>Pomeranian</item>
+        <item>Pug</item>
+        <item>Ragdoll</item>
+        <item>Siberian Husky</item>
+        <item>Yorkshire Terrier</item>
+    </string-array>
+
+    <string-array name="PetTypeArray">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Dog</item>
+    </string-array>
 </resources>
