@@ -1,4 +1,4 @@
-package com.shady.hw_week04_day01_recyclerviewiml
+package com.marah.recycleviewapp
 
 import org.junit.Test
 

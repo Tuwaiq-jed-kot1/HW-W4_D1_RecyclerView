@@ -1,4 +1,4 @@
-package com.shady.hw_week04_day01_recyclerviewiml
+package com.marah.recycleviewapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.shady.hw_week04_day01_recyclerviewiml", appContext.packageName)
+        assertEquals("com.marah.recycleviewapp", appContext.packageName)
     }
 }
